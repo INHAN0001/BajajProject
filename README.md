@@ -5,7 +5,7 @@ This Spring Boot application registers a webhook and submits an SQL solution as 
 
 ### Step 1: Register Webhook
 The app sends a POST request to:
-https://bfhldevapigw.healthrx.co.in/hiring/apis/webhook/register/JAVA
+https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA
 
 With the following payload:
 
